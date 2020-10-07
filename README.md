@@ -5,12 +5,12 @@ menu options, view the estimated time for delivery The front end is developed us
 Vue with Vuex for state management, Axios for ajax calls for the backend.
 Backend is developed using Node.Js with lowDB for database.
 
-##  Backend Execution:
-In airbeanApi folder -> 
-npm install
-node app.js – The backend starts to run in the address “http://localhost:3000”
+## Backend Execution:
+**In airbeanApi folder -> **
+*npm install
+*node app.js – The backend starts to run in the address “http://localhost:3000”
 
-##  Frontend Execution:
-In Airbean folder -> 
-npm install
-npm run serve – The application starts.
+**Frontend Execution:
+**In Airbean folder -> **
+*npm install
+*npm run serve – The application starts.
