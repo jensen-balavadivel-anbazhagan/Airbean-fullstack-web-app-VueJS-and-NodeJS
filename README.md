@@ -9,8 +9,7 @@ Backend is developed using Node.Js with lowDB for database.
 **In airbeanApi folder ->**
 * npm install
 * node app.js – The backend starts to run in the address “http://localhost:3000”
-
-**Frontend Execution:
+## Frontend Execution:
 **In Airbean folder ->**
 * npm install
 * npm run serve – The application starts.
